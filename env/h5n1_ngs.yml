@@ -1,0 +1,26 @@
+name: h5n1_ngs
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - fastqc
+  - trimmomatic
+  - nanoplot
+  - nanofilt
+  - bwa
+  - minimap2
+  - samtools
+  - bcftools
+  - ivar
+  - mafft
+  - iqtree
+  - seqkit
+  - blast
+  - pandas
+  - numpy
+  - matplotlib
+  - r-base
+  - r-dplyr
+

@@ -1,0 +1,14 @@
+# Raw sequencing data
+data/raw/
+*.fastq
+*.fq
+*.bam
+*.sam
+
+# Conda / python
+.env
+__pycache__/
+
+# Results (can be regenerated)
+results/
+
